@@ -1,5 +1,6 @@
 @import './base.css';
 body{
-    background: red;
-    transform: rotate(45deg);
+    background: rgb(167, 165, 104);
+    /* transform: rotate(45deg); */
+    /* background: url("./logo.png") */
 }
